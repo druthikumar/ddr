@@ -6,3 +6,6 @@ Back-end:js,mangodb,mysql
 sever: Xamp 
 Through this website doctor and patient can be peer to peer connection thorough online
 one who unable to attend in offline they can go through with these website😊
+hy heloo 
+am druthi
+information science engineering Tumkur 
