@@ -6,7 +6,8 @@ Back-end:js,mangodb,mysql
 sever: Xamp 
 Through this website doctor and patient can be peer to peer connection thorough online
 one who unable to attend in offline they can go through with these website😊
-hy heloo hwllo druthi kumar
+hy heloo hwllo duthi kumar
 am druthi
 information science engineering Tumkur 
 druthi kumar from information science engineering 
+druthi
