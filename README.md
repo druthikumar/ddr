@@ -9,5 +9,5 @@ one who unable to attend in offline they can go through with these website😊
 hy heloo hwllo duthi kumar
 am druthi
 information science engineering Tumkur 
-druthi kumar from information science engineering 
+druthi kumar from information science engineering  druthikumar 70 information about the best for the project not for me and technology Tumkur 
 druthi kumar Tumkur 
