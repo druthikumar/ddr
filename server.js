@@ -10,6 +10,7 @@ app.set('view engine', 'ejs');
 var corsOptions = {
     origin: "http://localhost:8080"
 };
+druthikumar
 
 
 app.use(cors(corsOptions));
